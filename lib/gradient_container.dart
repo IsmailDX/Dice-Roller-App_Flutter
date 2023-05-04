@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:first_app/styled_text.dart';
+//import 'package:first_app/styled_text.dart';
+import 'package:first_app/dice_roller.dart';
 
 // Alignment? startAlignment; // the ? is to tell flutter that the value will be of type alignment or null
 const startAlignment = Alignment
@@ -37,6 +38,7 @@ const endAlignment = Alignment.bottomRight;
 //SECOND METHOD
 
 class GradientContainer extends StatelessWidget {
+  //we use statefullwidget if this class contains data that can change overtime and should impact rendered ui
   //Constructor (Add const in constructors)
   const GradientContainer(this.color1, this.color2,
       {super.key}); //Here you only accept two colors
@@ -55,9 +57,7 @@ class GradientContainer extends StatelessWidget {
           end: endAlignment,
         ),
       ),
-      child: const Center(
-        child: StyledText('Hello World!'),
-      ),
+      child: Center(child: DiceRoller()),
     );
   }
 }
