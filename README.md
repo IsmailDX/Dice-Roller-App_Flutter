@@ -1,16 +1,29 @@
-# first_app
+# Dice Roller App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This is a simple Flutter app that allows users to roll a dice and get a random number. The app has a clean and user-friendly interface that makes it easy to use.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* The app starts with a random number.
+* Users can click a button to roll the dice and get a new random number.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The following screenshots show the app in action:
+
+![Dice Roller App Screenshot 1](https://user-images.githubusercontent.com/107717142/236240266-af204b3d-cc93-407c-8722-da3218bdccfd.png)
+![Dice Roller App Screenshot 2](https://user-images.githubusercontent.com/107717142/236240543-396f8d34-0cb6-434b-bf88-619ef95e3e97.png)
+
+## Installation
+
+To run this app on your local machine, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+2. Install Flutter: Follow the [official installation guide](https://flutter.dev/docs/get-started/install).
+3. Run the app: `flutter run`
+
+## Cool Right! 
+
+<img src="https://user-images.githubusercontent.com/107717142/236242540-105f5152-d520-4eea-92f5-e2ba6f2930e6.png" alt="logo" width="10%" height="10%">
