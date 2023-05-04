@@ -12,7 +12,7 @@ void main() {
         // body: GradientContainer(colors: [Color.fromARGB(255, 51, 19, 107), Color.fromARGB(255, 72, 9, 92)]),
         //SECOND METHOD
         body: GradientContainer(
-            Color.fromARGB(255, 51, 19, 107), Color.fromARGB(255, 93, 46, 175)),
+            Color.fromARGB(255, 82, 0, 85), Color.fromARGB(255, 72, 0, 196)),
       ),
     ),
   );
