@@ -13,8 +13,7 @@ This is a simple Flutter app that allows users to roll a dice and get a random n
 
 The following screenshots show the app in action:
 
-![Dice Roller App Screenshot 1](https://user-images.githubusercontent.com/107717142/236240266-af204b3d-cc93-407c-8722-da3218bdccfd.png)
-![Dice Roller App Screenshot 2](https://user-images.githubusercontent.com/107717142/236240543-396f8d34-0cb6-434b-bf88-619ef95e3e97.png)
+<img src="https://user-images.githubusercontent.com/107717142/236240266-af204b3d-cc93-407c-8722-da3218bdccfd.png" alt="screenshot1" width="200" height="400"> <img src="https://user-images.githubusercontent.com/107717142/236240543-396f8d34-0cb6-434b-bf88-619ef95e3e97.png" alt="screenshot1" width="200" height="400">
 
 ## Installation
 
